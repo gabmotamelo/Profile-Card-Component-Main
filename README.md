@@ -16,7 +16,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ![index](https://user-images.githubusercontent.com/88755473/137538208-db4cae9d-cf03-4000-aaab-a43ce30d1f19.png)
 
 <p align="center">
-  <img width="320px" height="575px" src="https://user-images.githubusercontent.com/88755473/137538256-2d97bf03-13c9-4188-b3a0-e2acf784f09e.png">
+  <img width="30%" src="https://user-images.githubusercontent.com/88755473/137538256-2d97bf03-13c9-4188-b3a0-e2acf784f09e.png">
 </p>
 
 ### Links
